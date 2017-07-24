@@ -1,5 +1,5 @@
 FROM centos:centos7.3.1611
-MAINTENAIR milton.vincenttis@gmail.com
+MAINTAINER milton.vincenttis@gmail.com
 
 #--- prerequisites
 
