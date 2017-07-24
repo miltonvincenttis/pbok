@@ -1,4 +1,4 @@
-###### PBOK (c) Copyright 2016 - Milton Vincenttis
+###### PBOK - Copyright (c) 2017 Milton Vincenttis
 
 O objetivo é manter algo do que conheço por aqui.
 
