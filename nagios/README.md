@@ -69,7 +69,7 @@ Here is the image used to learn and test Nagios in Docker: https://hub.docker.co
 #--- Pull the image from docker hub
 $ docker pull quantumobject/docker-nagios
 
-#--- Runs the image, expoding the port 80
+#--- Runs the image, exporting the port 80
 $ docker run -d -p 80:80 quantumobject/docker-nagios
 
 #--- Open this url on browser for check if Nagios web frontend is reachable
